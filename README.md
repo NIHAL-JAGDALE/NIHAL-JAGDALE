@@ -102,9 +102,13 @@ When I'm not coding, you'll find me exploring system design, experimenting with 
 &nbsp;
 <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIHAL-JAGDALE&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=9B59B6&text_color=c9d1d9&langs_count=8&hide=shell,batchfile" />
 
-<br/><br/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=NIHAL-JAGDALE&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=9B59B6&ring=8E44AD&fire=A569BD&currStreakLabel=9B59B6&sideLabels=9B59B6&dates=c9d1d9&sideNums=A569BD&currStreakNum=ffffff" alt="GitHub Streak Stats" />
+### Total Contributions & Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=NIHAL-JAGDALE&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=9B59B6&ring=8E44AD&fire=A569BD&currStreakLabel=9B59B6&sideLabels=9B59B6&dates=c9d1d9&sideNums=A569BD&currStreakNum=ffffff" alt="GitHub Streak Stats: Total Contributions, Current Streak, Longest Streak" />
 
 </div>
 
@@ -132,11 +136,17 @@ When I'm not coding, you'll find me exploring system design, experimenting with 
 ---
 </div>
 
+## Contribution Pacman
+
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NIHAL-JAGDALE/NIHAL-JAGDALE/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NIHAL-JAGDALE/NIHAL-JAGDALE/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/NIHAL-JAGDALE/NIHAL-JAGDALE/output/pacman-contribution-graph.svg">
+  <img alt="Animated snake eating through Nihal's GitHub contribution graph" src="https://raw.githubusercontent.com/NIHAL-JAGDALE/NIHAL-JAGDALE/output/pacman-contribution-graph.svg">
 </picture>
+
+</div>
 
 ---
 
