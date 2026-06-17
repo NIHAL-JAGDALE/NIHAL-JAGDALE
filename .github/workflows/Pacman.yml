@@ -1,14 +1,9 @@
 name: 🟡 Generate Pac-Man Contribution Animation
 
 on:
-  # Runs automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *"
-
-  # Allows you to trigger this manually from the Actions tab
   workflow_dispatch:
-
-  # Also runs on every push to main/master
   push:
     branches:
       - main
@@ -20,21 +15,19 @@ jobs:
     timeout-minutes: 10
 
     permissions:
-      contents: write  # Required to push the output branch
+      contents: write
 
     steps:
-      # Step 1: Generate the Pac-Man SVG animation from your contribution graph
       - name: 🎮 Generate Pac-Man Animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-pacman.svg
-            dist/github-contribution-grid-pacman-dark.svg?palette=github-dark
+            dist/github-contribution-grid-pacman.svg?type=pacman
+            dist/github-contribution-grid-pacman-dark.svg?type=pacman&palette=github-dark
 
-      # Step 2: Push the generated SVG to the `output` branch
       - name: 🚀 Push Animation to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
