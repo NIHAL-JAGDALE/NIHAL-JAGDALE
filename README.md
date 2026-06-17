@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <br/>
 
 <div align="center">
@@ -16,11 +15,11 @@
 
 <br/>
 
-![Degree](https://img.shields.io/badge/B.E%20Computer%20Engineering-Army%20Institute%20of%20Technology-7D3C98?style=flat-square&logoColor=white)
+![Degree](https://img.shields.io/badge/B.E%20Information%20Technology-Army%20Institute%20of%20Technology-7D3C98?style=flat-square&logoColor=white)
 &nbsp;
 ![CGPA](https://img.shields.io/badge/CGPA-8.68%2F10-6C3483?style=flat-square&logoColor=white)
 &nbsp;
-![Batch](https://img.shields.io/badge/Batch-2026-A569BD?style=flat-square&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-2027-A569BD?style=flat-square&logoColor=white)
 
 <br/>
 
@@ -52,23 +51,17 @@
 
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=NIHAL-JAGDALE&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0d0d1a&title_color=9B59B6&icon_color=8E44AD&text_color=c9d1d9&rank_icon=github" />
 
-I am a **Full Stack Software Engineer** and **AI Product Developer** based in Pune, India, currently pursuing B.E. at **Army Institute of Technology** (CGPA: 8.68/10). My engineering focus is on building production-grade, end-to-end systems that combine deep backend architecture with intelligent AI-driven experiences.
+Full Stack Engineer focused on building production-grade software and AI-powered applications.
 
-My core expertise spans the full software delivery lifecycle — designing **REST APIs**, architecting **PostgreSQL schemas**, engineering multi-provider **LLM pipelines**, and shipping polished frontends with React. I have direct production experience orchestrating **Claude Sonnet**, **OpenAI GPT-4o**, and **Groq Llama-3.3** in fault-tolerant failover systems with prompt caching strategies that reduce API costs by up to **90%**.
+I specialize in designing scalable backend systems, modern web applications, and intelligent user experiences using Java, Spring Boot, React, Node.js, PostgreSQL, and cloud technologies. My work combines strong software engineering fundamentals with practical AI integration to deliver reliable and impactful products.
 
-I build across the full stack — **Spring Boot** enterprise services in Java, **Node.js/Express** backends, and hybrid desktop + web platforms using **PyQt5** and **React**. My product mindset drives every decision: ship, measure, iterate, and scale.
+Currently pursuing a Bachelor's degree in Information Technology at Army Institute of Technology, Pune (CGPA: 8.68/10), while actively building projects, participating in hackathons, and solving algorithmic challenges.
+
+When I'm not coding, you'll find me exploring system design, experimenting with new technologies, contributing to tech communities, or preparing for the next engineering challenge.
 
 <br clear="right"/>
 
 <br/>
-
-**Open To:**
-
-- Full Stack Engineering Roles (SDE I / Intern)
-- AI & ML Product Engineering Positions
-- Backend Engineering — Node.js · Java · Python
-- Open Source Collaboration & Hackathons
-- Technical Co-founding or Startup Engineering
 
 ---
 
@@ -125,6 +118,7 @@ I build across the full stack — **Spring Boot** enterprise services in Java, *
 
 </div>
 
+
 ---
 
 ## Contribution Activity
@@ -153,6 +147,6 @@ I build across the full stack — **Spring Boot** enterprise services in Java, *
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C3483,4A235A,7D3C98,6C3483&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C3483&height=130&section=footer" width="100%"/>
 
 </div>
