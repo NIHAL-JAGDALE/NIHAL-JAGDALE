@@ -1,33 +1,27 @@
-name: 🟡 Generate Pac-Man Contribution Animation
+name: generate arcade contribution graphs
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: '0 0 * * *'
   workflow_dispatch:
   push:
     branches:
       - main
-      - master
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
     permissions:
       contents: write
-
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
-      - name: 🎮 Generate Pac-Man Animation
-        uses: Platane/snk/svg-only@v3
+      - name: generate contribution graph SVGs
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-pacman.svg?type=pacman
-            dist/github-contribution-grid-pacman-dark.svg?type=pacman&palette=github-dark
-
-      - name: 🚀 Push Animation to Output Branch
-        uses: crazy-max/ghaction-github-pages@v4
+          games: 'pacman'
+      - name: push SVGs to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
