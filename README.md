@@ -27,7 +27,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nihaljagdale.dev-7D3C98?style=for-the-badge&logo=vercel&logoColor=white)](https://nihaljagdale.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nihaljagdale.dev-7D3C98?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ten-murex-188eat04a9.vercel.app/)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nihal-jagdale)
 &nbsp;
