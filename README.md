@@ -17,7 +17,7 @@
 
 ![Degree](https://img.shields.io/badge/B.E%20Information%20Technology-Army%20Institute%20of%20Technology-7D3C98?style=flat-square&logoColor=white)
 &nbsp;
-![CGPA](https://img.shields.io/badge/CGPA-8.68%2F10-6C3483?style=flat-square&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.69%2F10-6C3483?style=flat-square&logoColor=white)
 &nbsp;
 ![Batch](https://img.shields.io/badge/Batch-2027-A569BD?style=flat-square&logoColor=white)
 
@@ -27,7 +27,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nihaljagdale.dev-7D3C98?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ten-murex-188eat04a9.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nihaljagdale-7D3C98?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ten-murex-188eat04a9.vercel.app/)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nihal-jagdale)
 &nbsp;
