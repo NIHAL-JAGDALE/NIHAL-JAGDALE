@@ -118,10 +118,9 @@ When I'm not coding, you'll find me exploring system design, experimenting with 
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=NIHAL-JAGDALE&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://raw.githubusercontent.com/NIHAL-JAGDALE/NIHAL-JAGDALE/main/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
 
 ---
 
