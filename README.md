@@ -53,7 +53,7 @@
 
 Full Stack Engineer focused on building production-grade software and AI-powered applications.
 
-I specialize in designing scalable backend systems, modern web applications, and intelligent user experiences using Java, Spring Boot, React, Node.js, PostgreSQL, and cloud technologies. My work combines strong software engineering fundamentals with practical AI integration to deliver reliable and impactful products.
+I specialize in designing scalable backend systems, modern web applications, and intelligent user experiences using React, Spring Boot, Node.js, PostgreSQL, and cloud technologies. My work combines strong software engineering fundamentals with practical AI integration to deliver reliable and impactful products.
 
 Currently pursuing a Bachelor's degree in Information Technology at Army Institute of Technology, Pune (CGPA: 8.68/10), while actively building projects, participating in hackathons, and solving algorithmic challenges.
 
